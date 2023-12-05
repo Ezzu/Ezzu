@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ezzu
-- 👀 I’m interested in Ruby on Rails, React, Redux.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on remote job.
-- 📫 Feel free to contact me on ertizaejaz@yahoo.com
+- 👀 I’m interested in Ruby on Rails, NodeJS, React, Angular.
+- 🌱 I’m currently learning NextJS and NustJS.
+- 💞️ I’m looking to collaborate on remote/onsite opportunities.
+- 📫 Feel free to contact me on work.ertiza@gmail.com
