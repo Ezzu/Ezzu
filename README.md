@@ -81,7 +81,7 @@
       </a>
       <br>Docker
     </td>
-    <td>
+    <td align="center" width="96">
       <a href="https://dart.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
       </a>
