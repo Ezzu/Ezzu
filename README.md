@@ -291,11 +291,11 @@
 ## GitHub Stats:
 
 <table align="center" style="border: none;">
-  <tr>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=ezzu&amp;show_icons=true&amp;locale=en" alt="ezzu" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzu&amp;" alt="ezzu" />
     </td>
   </tr>
