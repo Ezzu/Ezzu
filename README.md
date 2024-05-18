@@ -288,13 +288,12 @@
   </tr>
 </table>
 
-<div style="display: flex; gap: 10px;">
-	<div style="width: 50%;">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezzu&show_icons=true&locale=en" alt="ezzu" />
-	</div>
-	<div style="width: 50%;">
-		<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezzu&" alt="ezzu" />
-	</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezzu&amp;show_icons=true&amp;locale=en" alt="ezzu" />
+</div>;
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzu&amp;" alt="ezzu" />
 </div>
 
 <footer>
