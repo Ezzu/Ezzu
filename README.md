@@ -5,7 +5,7 @@
 <!-- START Visitor Count -->
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ezzu}/count.svg" /></p> 
+<div align="center"><img align="center" src="https://profile-counter.glitch.me/{ezzu}/count.svg" /></div> 
 <br>
 </div>
 
