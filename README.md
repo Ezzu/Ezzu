@@ -1,6 +1,5 @@
 <img alt="Full Stack Engineering" width="100%" src="https://media.licdn.com/dms/image/C4D16AQGOz07rY6xCEQ/profile-displaybackgroundimage-shrink_200_800/0/1660886478228?e=2147483647&v=beta&t=4tNhirzHfl9V29mfg_S3wX7uIIqYQos-WWKwPHEkoc0" />
-<h1 align="center">Hi 👋, I'm Muhammad Ertiza Ejaz</h1>
-<h3 align="center">A passionate fullstack developer from Pakistan 🇵🇰</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi+👋,+I%27m+Muhammad+Ertiza+Ejaz;A+passionate+fullstack+developer+from+Pakistan+🇵🇰;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzu&label=Profile%20views&color=0e75b6&style=flat" alt="ezzu" /> </p>
 
