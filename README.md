@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ertiza Ejaz</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan 🇵🇰</h3>
+<img align="right" alt="Full Stack Engineering" width="400" src="https://media.licdn.com/dms/image/C4D16AQGOz07rY6xCEQ/profile-displaybackgroundimage-shrink_200_800/0/1660886478228?e=2147483647&v=beta&t=4tNhirzHfl9V29mfg_S3wX7uIIqYQos-WWKwPHEkoc0" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzu&label=Profile%20views&color=0e75b6&style=flat" alt="ezzu" /> </p>
 
