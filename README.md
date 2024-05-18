@@ -290,7 +290,7 @@
 
 ## GitHub Stats:
 
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ezzu&amp;show_icons=true&amp;locale=en" alt="ezzu" />
