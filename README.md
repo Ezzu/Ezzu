@@ -288,13 +288,18 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezzu&amp;show_icons=true&amp;locale=en" alt="ezzu" />
-</div>;
+## GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzu&amp;" alt="ezzu" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ezzu&amp;show_icons=true&amp;locale=en" alt="ezzu" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzu&amp;" alt="ezzu" />
+    </td>
+  </tr>
+</table>
 
 <footer>
 	<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" />
