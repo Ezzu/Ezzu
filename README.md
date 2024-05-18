@@ -288,11 +288,14 @@
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezzu&show_icons=true&locale=en&layout=compact" alt="ezzu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezzu&show_icons=true&locale=en" alt="ezzu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezzu&" alt="ezzu" /></p>
+<div style="display: flex; gap: 10px;">
+	<div>
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezzu&show_icons=true&locale=en" alt="ezzu" />
+	</div>
+	<div>
+		<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezzu&" alt="ezzu" />
+	</div>
+</div>
 
 <footer>
 	<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" />
