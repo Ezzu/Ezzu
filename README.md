@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi+👋,+I%27m+Muhammad+Ertiza+Ejaz;A+passionate+fullstack+developer+from+Pakistan+🇵🇰;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
+<!-- START Visitor Count -->
+<div align="center">
+<h2 align="centre">Visitors Count</h2>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ezzu}/count.svg" /></p> 
+<br>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzu&label=Profile%20views&color=0e75b6&style=flat" alt="ezzu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
