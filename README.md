@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="GIF" src="code.gif" width="400" />
+<img align="right" alt="GIF" src="code.gif" width="300" />
 
 - 🔭 I’m currently working on [Mission Marketplace](https://mission.dev/)
 
