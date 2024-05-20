@@ -1,4 +1,4 @@
-<img src="cover.png" width="100%" />
+<img src="cover-enhanced.png" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi+👋,+I%27m+Muhammad+Ertiza+Ejaz;A+passionate+fullstack+developer+from+Pakistan+🇵🇰;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
